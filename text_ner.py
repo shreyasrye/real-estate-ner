@@ -2,7 +2,6 @@
 import spacy
 from preprocessimage import *
 import pytesseract
-from matplotlib import pyplot as plt
 
 
 class TextRecognition:
