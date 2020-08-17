@@ -6,6 +6,8 @@ import glob
 import pytesseract
 import json
 import cv2
+import spacy
+from spacy.gold import GoldCorpus, minibatch, biluo_tags_from_offsets, tags_to_entities
 
 
 # For Windows only - setting the tesseract path
@@ -48,6 +50,7 @@ class DataFormatter:
 
     def format_json(self):
         # Extract entity start/ end positions and names
+        # nlp = spacy.blank('en', disable=["tagger", "ner"])
         ent_loc = self.data['_views']['_InitialView']['NamedEntity']
         ent_list = []
         for sl in range(len(self.Sentence)):
@@ -74,6 +77,7 @@ class DataFormatter:
             ent_dic = {'entities': ent_list[-1]}
             # Prepare final training data
             self.train_data.append((self.sentences_list[sl], ent_dic))
+
 
     def fill_train_data(self):
 
@@ -109,9 +113,11 @@ def write_text(text_ls):
 
 def main():
     df = DataFormatter()
-    read_text(df.train_data)
-    write_text(df.train_data)
+    # read_text(df.train_data)
+    # write_text(df.train_data)
     df.fill_train_data()
+    for i in df.train_data:
+        print(i)
 
 
 if __name__ == '__main__':
