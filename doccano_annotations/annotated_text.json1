@@ -1,0 +1,707 @@
+{"id": 2122, "text": "$299,000 3bds 2ba 1,824 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [18, 23, "SQFT"]]}
+{"id": 2123, "text": "342 Lakeside Dr,Littleton,NC 27850,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 15, "ADDRESS"], [16, 25, "CITY"], [26, 28, "STATE"], [29, 34, "ZIP"]]}
+{"id": 2124, "text": "@ House for sale,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2125, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2126, "text": "=7 days on Zillow,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2127, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2128, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2129, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2130, "text": "$285,000 3bds 3ba 2,149 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [18, 23, "SQFT"]]}
+{"id": 2131, "text": "188 Jacqueline Dr,Nashville,NC 27856,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 17, "ADDRESS"], [18, 27, "CITY"], [28, 30, "STATE"], [31, 36, "ZIP"]]}
+{"id": 2132, "text": "@ For sale by owner18 days on Zillow,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 19, "PROPERTY TYPE"]]}
+{"id": 2133, "text": "Z LJ,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2134, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2135, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2136, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2137, "text": "$267,900 3bds | 2ba 2,086 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [16, 19, "#BATHROOMS"], [20, 25, "SQFT"]]}
+{"id": 2138, "text": "227 Flowers Crest Way,Clayton,NC 27527,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 21, "ADDRESS"], [22, 29, "CITY"], [30, 32, "STATE"], [33, 38, "ZIP"]]}
+{"id": 2139, "text": "@ House for sale$285,400 4bds 3ba 2,102 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"], [16, 24, "PRICE"], [25, 29, "#BEDS"], [30, 33, "#BATHROOMS"], [34, 39, "SQFT"]]}
+{"id": 2140, "text": "388 Heart Pine Dr,Wendell,NC,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 17, "ADDRESS"], [18, 25, "CITY"], [26, 28, "STATE"]]}
+{"id": 2141, "text": "@ New construction113 days on Zillow _ O,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 18, "PROPERTY TYPE"]]}
+{"id": 2142, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2143, "text": "�le d,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2144, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2145, "text": "Assist2Sell Buyers & Sellers First Advantage Realty,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2146, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2147, "text": "$263,000 4bds 2ba_ 1,976 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [19, 24, "SQFT"]]}
+{"id": 2148, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2149, "text": "2805 Auburn Knightdale Rd,Raleigh,NC 27610,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 25, "ADDRESS"], [26, 33, "CITY"], [34, 36, "STATE"], [37, 42, "ZIP"]]}
+{"id": 2150, "text": "@ House for salePrice cut: $76,000 (Jul 16),,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2151, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2152, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2153, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2154, "text": "; a,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2155, "text": "Charles Rutenberg Realtyainc.,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2156, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2157, "text": "$599,000 3bds | 3ba 2,000 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [16, 19, "#BATHROOMS"], [20, 25, "SQFT"]]}
+{"id": 2158, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2159, "text": "941 E 49th St,Brooklyn,NY 11203,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 13, "ADDRESS"], [14, 22, "CITY"], [23, 25, "STATE"], [26, 31, "ZIP"]]}
+{"id": 2160, "text": "@ House for sale16 days on Zillow,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2161, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2162, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2163, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2164, "text": "3bds 3ba_= 1,800 saft,,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 4, "#BEDS"], [5, 8, "#BATHROOMS"], [11, 16, "SQFT"]]}
+{"id": 2165, "text": "14 Maple St,Brooklyn,NY 11225,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 11, "ADDRESS"], [12, 20, "CITY"], [21, 23, "STATE"], [24, 29, "ZIP"]]}
+{"id": 2166, "text": "@ House for sale37 days on Zillow CY),,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2167, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2168, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2169, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2170, "text": "$1,8/72,000 3bds 2ba_ 11,272 sqft,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 11, "PRICE"], [12, 16, "#BEDS"], [17, 20, "#BATHROOMS"], [22, 28, "SQFT"]]}
+{"id": 2171, "text": "199 8th Ave APT C3,Brooklyn,NY 11215,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 18, "ADDRESS"], [19, 27, "CITY"], [28, 30, "STATE"], [31, 36, "ZIP"]]}
+{"id": 2172, "text": "@ Co-op for sale5 days on Zillow,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2173, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2174, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2175, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2176, "text": "$2,350,000 3bds | 3ba 2,900 saft,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 10, "PRICE"], [11, 15, "#BEDS"], [18, 21, "#BATHROOMS"], [22, 27, "SQFT"]]}
+{"id": 2177, "text": "171 Maple St,Brooklyn,NY 11225,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 12, "ADDRESS"], [13, 21, "CITY"], [22, 24, "STATE"], [25, 30, "ZIP"]]}
+{"id": 2178, "text": "@ House for sale$749,000 3bds 3ba 1,633 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"], [16, 24, "PRICE"], [25, 29, "#BEDS"], [30, 33, "#BATHROOMS"], [34, 39, "SQFT"]]}
+{"id": 2179, "text": "960 E 16th St,Brooklyn,NY 11230,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 13, "ADDRESS"], [14, 22, "CITY"], [23, 25, "STATE"], [26, 31, "ZIP"]]}
+{"id": 2180, "text": "@ House for sale*,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2181, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2182, "text": "$525,000 5bds 2ba_ 2,479 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [19, 24, "SQFT"]]}
+{"id": 2183, "text": "39 Kendrick PI,Amherst,MA 01002,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 14, "ADDRESS"], [15, 22, "CITY"], [23, 25, "STATE"], [26, 31, "ZIP"]]}
+{"id": 2184, "text": "@ House for sale26 days.on Zillow,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2185, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2186, "text": "5 RA gai,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2187, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2188, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2189, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2190, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2191, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2192, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2193, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2194, "text": "5 College REALTORS�,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2195, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2196, "text": "$575,000 3bds 2ba 2,427 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [18, 23, "SQFT"]]}
+{"id": 2197, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2198, "text": "139 Sunset Ave,Amherst,MA 01002,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 14, "ADDRESS"], [15, 22, "CITY"], [23, 25, "STATE"], [26, 31, "ZIP"]]}
+{"id": 2199, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2200, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2201, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2202, "text": "@ House for salelege REALTORS�,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2203, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2204, "text": "$480,000 3bds 4ba_ 2,310 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [19, 24, "SQFT"]]}
+{"id": 2205, "text": "826 S East St,Amherst,MA 01002,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 13, "ADDRESS"], [14, 21, "CITY"], [22, 24, "STATE"], [25, 30, "ZIP"]]}
+{"id": 2206, "text": "@ House for sale5 CBllege REALTORS�,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2207, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2208, "text": "$51 9,000 4bds 3ba 2,849 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 9, "PRICE"], [10, 14, "#BEDS"], [15, 18, "#BATHROOMS"], [19, 24, "SQFT"]]}
+{"id": 2209, "text": "135 Lincoln Ave,Amherst,MA 01002,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 15, "ADDRESS"], [16, 23, "CITY"], [24, 26, "STATE"], [27, 32, "ZIP"]]}
+{"id": 2210, "text": "@ House for sale$290,000 4bds 1ba_ 1,037 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2211, "text": "80 Belchertown Rd,Amherst,MA 01002,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 17, "ADDRESS"], [18, 25, "CITY"], [26, 28, "STATE"], [29, 34, "ZIP"]]}
+{"id": 2212, "text": "@ House for sale2 days on Zillow,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2213, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2214, "text": "na,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2215, "text": "ist Rate Real-Estate,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2216, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2217, "text": "$289,900 4bds | 2ba | 1,861 sqft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [16, 19, "#BATHROOMS"], [22, 27, "SQFT"]]}
+{"id": 2218, "text": "1948-1956 Durham Ave,State Center,IA 50247,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 20, "ADDRESS"], [21, 33, "CITY"], [34, 36, "STATE"], [37, 42, "ZIP"]]}
+{"id": 2219, "text": "@ House for sale7 days on Zillow fm,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2220, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2221, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2222, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2223, "text": "$275,999 4bds 3ba 2,011 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [18, 23, "SQFT"]]}
+{"id": 2224, "text": "1203 8th St,Dallas Center,IA 50063,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 11, "ADDRESS"], [12, 25, "CITY"], [26, 28, "STATE"], [29, 34, "ZIP"]]}
+{"id": 2225, "text": "@ For sale by ownerro Mer\\Vcwe) a4] (0) 7,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 19, "PROPERTY TYPE"]]}
+{"id": 2226, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2227, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2228, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2229, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2230, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2231, "text": "$279,900 4bds 3ba 2,348 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [18, 23, "SQFT"]]}
+{"id": 2232, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2233, "text": "445 School St,Waukee,IA 50263,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 13, "ADDRESS"], [14, 20, "CITY"], [21, 23, "STATE"], [24, 29, "ZIP"]]}
+{"id": 2234, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2235, "text": "@ For sale by owner7 days on Zillow,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 19, "PROPERTY TYPE"]]}
+{"id": 2236, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2237, "text": "$259,900 5bds 2ba 2,152 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [18, 23, "SQFT"]]}
+{"id": 2238, "text": "507 W Salem Ave,Indianola,IA 50125,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 15, "ADDRESS"], [16, 25, "CITY"], [26, 28, "STATE"], [29, 34, "ZIP"]]}
+{"id": 2239, "text": "@ House for saleyao we) a4] (0),,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2240, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2241, "text": "$294,900 5bds 2ba_ 1,772 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [19, 24, "SQFT"]]}
+{"id": 2242, "text": "1423 W 2nd St,Pella,[A 50219,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 13, "ADDRESS"], [14, 19, "CITY"], [20, 22, "STATE"], [23, 28, "ZIP"]]}
+{"id": 2243, "text": "@ House for salesae. al,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2244, "text": "Baidh sean Ti,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2245, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2246, "text": "1 lide,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2247, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2248, "text": "$5,1 95,000 4bds 6ba 4,400 saft,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 11, "PRICE"], [12, 16, "#BEDS"], [17, 20, "#BATHROOMS"], [21, 26, "SQFT"]]}
+{"id": 2249, "text": "205 S La Peer Dr,Beverly Hills,CA 90211,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 16, "ADDRESS"], [17, 30, "CITY"], [31, 33, "STATE"], [34, 39, "ZIP"]]}
+{"id": 2250, "text": "@ House for sale2 days on Zillow,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2251, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2252, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2253, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2254, "text": "$38,000,000 6bds 9ba_ 11,106 sqft,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 11, "PRICE"], [12, 16, "#BEDS"], [17, 20, "#BATHROOMS"], [22, 28, "SQFT"]]}
+{"id": 2255, "text": "1024 Ridgedale Dr,Beverly Hills,CA 90210,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 17, "ADDRESS"], [18, 31, "CITY"], [32, 34, "STATE"], [35, 40, "ZIP"]]}
+{"id": 2256, "text": "@ House for saleMietoMer mela 4li(e) ae,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2257, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2258, "text": "Baws saa7,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2259, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2260, "text": "$125,000,000 isbas 25 ba 20,570s...,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 12, "PRICE"], [13, 17, "#BEDS"], [19, 24, "#BATHROOMS"], [25, 31, "SQFT"]]}
+{"id": 2261, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2262, "text": "1011 N Beverly Dr,Beverly Hills,CA 90210,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 17, "ADDRESS"], [18, 31, "CITY"], [32, 34, "STATE"], [35, 40, "ZIP"]]}
+{"id": 2263, "text": "@ House for sale43 days on Zillow,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2264, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2265, "text": "=,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2266, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2267, "text": "iV),,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2268, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2269, "text": "on Hj,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2270, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2271, "text": "aii =e | er,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2272, "text": "����,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2273, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2274, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2275, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2276, "text": "Se ame aTi\\olan ieee,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2277, "text": "$69,500,000,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 11, "PRICE"]]}
+{"id": 2278, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2279, "text": "601 Mountain Dr,Beverly Hills,CA 90210,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 15, "ADDRESS"], [16, 29, "CITY"], [30, 32, "STATE"], [33, 38, "ZIP"]]}
+{"id": 2280, "text": "@ House for sale,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2281, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2282, "text": "6bds 15ba 27,470 saft$39,900,000 7bds 14ba 15,803 saft", "meta": {}, "annotation_approver": "admin", "labels": [[0, 4, "#BEDS"], [5, 9, "#BATHROOMS"], [21, 32, "PRICE"], [33, 37, "#BEDS"], [38, 42, "#BEDS"], [43, 49, "SQFT"], [10, 16, "SQFT"]]}
+{"id": 2283, "text": "1000 Laurel Way,Beverly Hills,CA 90210,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 15, "ADDRESS"], [16, 29, "CITY"], [30, 32, "STATE"], [33, 38, "ZIP"]]}
+{"id": 2284, "text": "@ House for salesome F V-Hel aA] fo),,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2285, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2286, "text": "$1,198,000 4bds 2ba_ 1,550 saft,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 10, "PRICE"], [11, 15, "#BEDS"], [16, 19, "#BATHROOMS"], [21, 26, "SQFT"]]}
+{"id": 2287, "text": "497 W Sunnyoaks Ave,Campbell,CA 95008,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 19, "ADDRESS"], [20, 28, "CITY"], [29, 31, "STATE"], [32, 37, "ZIP"]]}
+{"id": 2288, "text": "@ House for sale6 days on Zillow = 3 ~),,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2289, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2290, "text": "Next Realty,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2291, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2292, "text": "$1,298,000 3bds 2ba | 1,354 saft,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 10, "PRICE"], [11, 15, "#BEDS"], [16, 19, "#BATHROOMS"], [22, 27, "SQFT"]]}
+{"id": 2293, "text": "1447 Las Palmas Dr,Santa Clara,CA 95051,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 18, "ADDRESS"], [19, 30, "CITY"], [31, 33, "STATE"], [34, 39, "ZIP"]]}
+{"id": 2294, "text": "@ House for sale12 days on pila i _� rN,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2295, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2296, "text": "ESS,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2297, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2298, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2299, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2300, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2301, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2302, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2303, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2304, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2305, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2306, "text": "$2,498,000 5bds 3ba_ 2,415 sqft,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 10, "PRICE"], [11, 15, "#BEDS"], [16, 19, "#BATHROOMS"], [21, 26, "SQFT"]]}
+{"id": 2307, "text": "19680 Crestbrook Dr,Saratoga,CA 95070,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 19, "ADDRESS"], [20, 28, "CITY"], [29, 31, "STATE"], [32, 37, "ZIP"]]}
+{"id": 2308, "text": "@ House for sale$1,298,000 3bds 2ba_ 1,347 sqft,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"], [16, 26, "PRICE"], [27, 31, "#BEDS"], [32, 35, "#BATHROOMS"], [37, 42, "SQFT"]]}
+{"id": 2309, "text": "1457 Los Padres Blvd,Santa Clara,CA 95050,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 20, "ADDRESS"], [21, 32, "CITY"], [33, 35, "STATE"], [36, 41, "ZIP"]]}
+{"id": 2310, "text": "@ House for sale1 day on Zillow,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2311, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2312, "text": "Pie,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2313, "text": "a A,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2314, "text": "rola ictus Realty.-. Cupertino,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2315, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2316, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2317, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2318, "text": "$1,248,000 3bds 2ba_ 1,145 sqft,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 10, "PRICE"], [11, 15, "#BEDS"], [16, 19, "#BATHROOMS"], [21, 26, "SQFT"]]}
+{"id": 2319, "text": "716 Kiely Blvd,Santa Clara,CA 95051,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 14, "ADDRESS"], [15, 26, "CITY"], [27, 29, "STATE"], [30, 35, "ZIP"]]}
+{"id": 2320, "text": "@ House for saleme,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2321, "text": "$1,680,000 3bds 4ba_ 3,768 sqft,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 10, "PRICE"], [11, 15, "#BEDS"], [16, 19, "#BATHROOMS"], [21, 26, "SQFT"]]}
+{"id": 2322, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2323, "text": "3378 Blackburn St,Dallas,TX 75204,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 17, "ADDRESS"], [18, 24, "CITY"], [25, 27, "STATE"], [28, 33, "ZIP"]]}
+{"id": 2324, "text": "@ Townhouse for sale$61 9,000 3bds 3ba 2,461 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 11, "PROPERTY TYPE"], [20, 29, "PRICE"], [30, 34, "#BEDS"], [35, 38, "#BATHROOMS"], [39, 44, "SQFT"]]}
+{"id": 2325, "text": "4908 Junius St,Dallas,TX 75214,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 14, "ADDRESS"], [15, 21, "CITY"], [22, 24, "STATE"], [25, 30, "ZIP"]]}
+{"id": 2326, "text": "@ House for sale49 minutes ago,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2327, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2328, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2329, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2330, "text": "$435,000 3bds 3ba_ 1,940 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [19, 24, "SQFT"]]}
+{"id": 2331, "text": "2619 W 10th St,Dallas,TX 75211,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 14, "ADDRESS"], [15, 21, "CITY"], [22, 24, "STATE"], [25, 30, "ZIP"]]}
+{"id": 2332, "text": "@ House for sale54 minutes ago,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2333, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2334, "text": "$354,500 2bds 2ba 1,392 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [18, 23, "SQFT"]]}
+{"id": 2335, "text": "3400 Welborn St APT 107,Dallas,TX 75219,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 23, "ADDRESS"], [24, 30, "CITY"], [31, 33, "STATE"], [34, 39, "ZIP"]]}
+{"id": 2336, "text": "@ Condo for sale$479,000 3bds | 2ba | 1,848 sqft,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"], [16, 24, "PRICE"], [25, 29, "#BEDS"], [32, 35, "#BATHROOMS"], [38, 43, "SQFT"]]}
+{"id": 2337, "text": "1605 Mckee St,Dallas,TX 75215,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 13, "ADDRESS"], [14, 20, "CITY"], [21, 23, "STATE"], [24, 29, "ZIP"]]}
+{"id": 2338, "text": "@ House for sale3 hours ago,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2339, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2340, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2341, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2342, "text": "�Metro,REALTORS LLP,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2343, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2344, "text": "$179,900 2bds | 2ba 1,320 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [16, 19, "#BATHROOMS"], [20, 25, "SQFT"]]}
+{"id": 2345, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2346, "text": "3175 Solar Blvd UNIT 1,Billings,MT 59102,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 22, "ADDRESS"], [23, 31, "CITY"], [32, 34, "STATE"], [35, 40, "ZIP"]]}
+{"id": 2347, "text": "@ Townhouse for sale6 hours ago,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 11, "PROPERTY TYPE"]]}
+{"id": 2348, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2349, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2350, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2351, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2352, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2353, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2354, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2355, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2356, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2357, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2358, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2359, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2360, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2361, "text": "$380,000 3bds 3ba 1,488 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [18, 23, "SQFT"]]}
+{"id": 2362, "text": "3 Heatherwood Ln,Billings,MT 59102,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 16, "ADDRESS"], [17, 25, "CITY"], [26, 28, "STATE"], [29, 34, "ZIP"]]}
+{"id": 2363, "text": "@ Townhouse for sale7 hours ago,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 11, "PROPERTY TYPE"]]}
+{"id": 2364, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2365, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2366, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2367, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2368, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2369, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2370, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2371, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2372, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2373, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2374, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2375, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2376, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2377, "text": "$380,000 3bds 3ba 1,488 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [18, 23, "SQFT"]]}
+{"id": 2378, "text": "3 Heatherwood Ln #11D,Billings,MT 59102,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 21, "ADDRESS"], [22, 30, "CITY"], [31, 33, "STATE"], [34, 39, "ZIP"]]}
+{"id": 2379, "text": "@ Townhouse for sale(el RUS WSS Na a,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 11, "PROPERTY TYPE"]]}
+{"id": 2380, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2381, "text": "$134,900 3bds | 2ba | 1,443 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [16, 19, "#BATHROOMS"], [22, 27, "SQFT"]]}
+{"id": 2382, "text": "1908 Preston St,Charleston,WV 25302,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 15, "ADDRESS"], [16, 26, "CITY"], [27, 29, "STATE"], [30, 35, "ZIP"]]}
+{"id": 2383, "text": "@ House for sale$1 1 7,000 3bds 2ba_ 1,700 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"], [16, 26, "PRICE"], [27, 31, "#BEDS"], [32, 35, "#BATHROOMS"], [37, 42, "SQFT"]]}
+{"id": 2384, "text": "6756 Winfield Rd,Winfield,WV 25213,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 16, "ADDRESS"], [17, 25, "CITY"], [26, 28, "STATE"], [29, 34, "ZIP"]]}
+{"id": 2385, "text": "@ House for sale4 minutes ago rs eg,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2386, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2387, "text": "VA,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2388, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2389, "text": "diva) Realty |,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2390, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2391, "text": "$135,000 2bds | 3ba 1,386 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [16, 19, "#BATHROOMS"], [20, 25, "SQFT"]]}
+{"id": 2392, "text": "2719 N Kings Arms Cir,Dayton,OH 45440,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 21, "ADDRESS"], [22, 28, "CITY"], [29, 31, "STATE"], [32, 37, "ZIP"]]}
+{"id": 2393, "text": "@ Condo for saleOpen: M: 11:00 AM-6:00 ...,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2394, "text": "rt,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2395, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2396, "text": "$464,91 5 4bds 4ba 2,550 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 9, "PRICE"], [10, 14, "#BEDS"], [15, 18, "#BATHROOMS"], [19, 24, "SQFT"]]}
+{"id": 2397, "text": "17117 Shakes Creek Dr,Fisherville,KY,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 21, "ADDRESS"], [22, 33, "CITY"], [34, 36, "STATE"]]}
+{"id": 2398, "text": "@ New construction14 minutes ago . bd a 2,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 18, "PROPERTY TYPE"]]}
+{"id": 2399, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2400, "text": "s �,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2401, "text": "F y = Realty One Gfoup Synergy,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2402, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2403, "text": "$419,000 3bds | 2ba | 1,148 sqft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [16, 19, "#BATHROOMS"], [22, 27, "SQFT"]]}
+{"id": 2404, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2405, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2406, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2407, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2408, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2409, "text": "2140 W Churchill Cir,Anaheim,CA 92804,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 20, "ADDRESS"], [21, 28, "CITY"], [29, 31, "STATE"], [32, 37, "ZIP"]]}
+{"id": 2410, "text": "@ Condo for sale$2,549,000 4bds 4ba_ 4,550 saft,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"], [16, 26, "PRICE"], [27, 31, "#BEDS"], [32, 35, "#BATHROOMS"], [37, 42, "SQFT"]]}
+{"id": 2411, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2412, "text": "2950 Crownview Dr,Rancho Palos Verdes,CA,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 17, "ADDRESS"], [18, 37, "CITY"], [38, 40, "STATE"]]}
+{"id": 2413, "text": "@ New construction16 minutes ago,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 18, "PROPERTY TYPE"]]}
+{"id": 2414, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2415, "text": "7,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2416, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2417, "text": "fe a,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2418, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2419, "text": "2 i h 1 oe Ae,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2420, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2421, "text": "$2,040,000 16bds 9ba_ 6,440 saft,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 10, "PRICE"], [11, 16, "#BEDS"], [17, 20, "#BATHROOMS"], [22, 27, "SQFT"]]}
+{"id": 2422, "text": "1633 Rockwood St,Los Angeles,CA 90026,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 16, "ADDRESS"], [17, 28, "CITY"], [29, 31, "STATE"], [32, 37, "ZIP"]]}
+{"id": 2423, "text": "@ Apartment for sale,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 11, "PROPERTY TYPE"]]}
+{"id": 2424, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2425, "text": "163316 minutes ago,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2426, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2427, "text": "E,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2428, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2429, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2430, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2431, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2432, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2433, "text": "$1,550,000 6bds | 6ba 2,796 saft,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 10, "PRICE"], [11, 15, "#BEDS"], [18, 21, "#BATHROOMS"], [22, 27, "SQFT"]]}
+{"id": 2434, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2435, "text": "2227 James M Wood Blvd,Los Angeles,CA 90006,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 22, "ADDRESS"], [23, 34, "CITY"], [35, 37, "STATE"], [38, 43, "ZIP"]]}
+{"id": 2436, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2437, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2438, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2439, "text": "@ Apartment for saleee,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 11, "PROPERTY TYPE"]]}
+{"id": 2440, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2441, "text": "1 hour ago e * ; i),,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2442, "text": "zs : EZ �2,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2443, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2444, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2445, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2446, "text": "|,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2447, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2448, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2449, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2450, "text": "DIN,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2451, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2452, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2453, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2454, "text": ",-Realty Executives Homes,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2455, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2456, "text": "$435,000 2bds 2ba_ 1,404 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [19, 24, "SQFT"]]}
+{"id": 2457, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2458, "text": "19337 Opal Ln,Saugus,CA 91350,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 13, "ADDRESS"], [14, 20, "CITY"], [21, 23, "STATE"], [24, 29, "ZIP"]]}
+{"id": 2459, "text": "@ Townhouse for sale$325,000 4bds | 3ba | 2,200 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 11, "PROPERTY TYPE"], [20, 28, "PRICE"], [29, 33, "#BEDS"], [36, 39, "#BATHROOMS"], [42, 47, "SQFT"]]}
+{"id": 2460, "text": "994 N Silver Maple St,Porterville,CA 93257,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 21, "ADDRESS"], [22, 33, "CITY"], [34, 36, "STATE"], [37, 42, "ZIP"]]}
+{"id": 2461, "text": "@ Foreclosure1 hour ago,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 13, "PROPERTY TYPE"]]}
+{"id": 2462, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2463, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2464, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2465, "text": "$765,000 2bds | 2ba | 1,024 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [16, 19, "#BATHROOMS"], [22, 27, "SQFT"]]}
+{"id": 2466, "text": "12724 Caswell Ave APT 8,Los Angeles,CA 90066,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 23, "ADDRESS"], [24, 35, "CITY"], [36, 38, "STATE"], [39, 44, "ZIP"]]}
+{"id": 2467, "text": "@ Condo for sale$1.5 500,000 3bds 2ba 1,360 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"], [16, 28, "PRICE"], [29, 33, "#BEDS"], [34, 37, "#BATHROOMS"], [38, 43, "SQFT"]]}
+{"id": 2468, "text": "205 Santa Cruz Blvd,Santa Barbara,CA 93109,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 19, "ADDRESS"], [20, 33, "CITY"], [34, 36, "STATE"], [37, 42, "ZIP"]]}
+{"id": 2469, "text": "@ House for salePrice cut: $10,000 (Jul 6),,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2470, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2471, "text": "$40,000 60 acres lot,,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 7, "PRICE"], [8, 16, "SQFT"]]}
+{"id": 2472, "text": "Ft Irwin Rd,Barstow,CA 92311,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 11, "ADDRESS"], [12, 19, "CITY"], [20, 22, "STATE"], [23, 28, "ZIP"]]}
+{"id": 2473, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2474, "text": "@ For sale by owner83 days on Zillow je wy,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 19, "PROPERTY TYPE"]]}
+{"id": 2475, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2476, "text": "i,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2477, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2478, "text": "$1 2,000 5 acres lot,,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 16, "SQFT"]]}
+{"id": 2479, "text": "23 Theda Rd,Barstow,CA,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 11, "ADDRESS"], [12, 19, "CITY"], [20, 22, "STATE"]]}
+{"id": 2480, "text": "@ Lot / Land for sale546 days on Zillow,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 12, "PROPERTY TYPE"]]}
+{"id": 2481, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2482, "text": "SS,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2483, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2484, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2485, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2486, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2487, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2488, "text": "ont,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2489, "text": "> a,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2490, "text": "% Re,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2491, "text": "$65,000 160 acres lot,,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 7, "PRICE"], [8, 17, "SQFT"]]}
+{"id": 2492, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2493, "text": "12 Fort Irwin Saenz Rd,Barstow,CA 92311,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 22, "ADDRESS"], [23, 30, "CITY"], [31, 33, "STATE"], [34, 39, "ZIP"]]}
+{"id": 2494, "text": "@ Lot / Land for sale1372 days on Zillow | OT cag ad |,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 12, "PROPERTY TYPE"]]}
+{"id": 2495, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2496, "text": "$900,000 623 acres lot,,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 18, "SQFT"]]}
+{"id": 2497, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2498, "text": "Fort Irwin Rd,Fort Irwin,CA 92310,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 13, "ADDRESS"], [14, 24, "CITY"], [25, 27, "STATE"], [28, 33, "ZIP"]]}
+{"id": 2499, "text": "@ Lot / Land for sale2 hours ago �_,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 12, "PROPERTY TYPE"]]}
+{"id": 2500, "text": "* cf =,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2501, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2502, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2503, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2504, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2505, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2506, "text": "HERITAGE LAND CO.,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2507, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2508, "text": "$75,000 1bd 1 ba� 620 saft,,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 7, "PRICE"], [8, 11, "#BEDS"], [12, 16, "#BATHROOMS"], [18, 21, "SQFT"]]}
+{"id": 2509, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2510, "text": "687000 Elm St,Susanville,CA 96130,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 13, "ADDRESS"], [14, 24, "CITY"], [25, 27, "STATE"], [28, 33, "ZIP"]]}
+{"id": 2511, "text": "@ House for sale4 hours ago,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2512, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2513, "text": ": da,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2514, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2515, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2516, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2517, "text": "$224,900 3bds 1ba_ 1,078 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [19, 24, "SQFT"]]}
+{"id": 2518, "text": "670 Wernmark Dr,Red Bluff,CA 96080,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 15, "ADDRESS"], [16, 25, "CITY"], [26, 28, "STATE"], [29, 34, "ZIP"]]}
+{"id": 2519, "text": "@ House for sale8 hours ago,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2520, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2521, "text": "Vv,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2522, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2523, "text": "jis,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2524, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2525, "text": "iL,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2526, "text": "if LL RIVER REAL ESTATE,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2527, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2528, "text": "$96,900 2bds --ba 600 saft,,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 7, "PRICE"], [8, 12, "#BEDS"], [13, 17, "#BATHROOMS"], [18, 21, "SQFT"]]}
+{"id": 2529, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2530, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2531, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2532, "text": "21716 Oregon St,Burney,CA 96013,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 15, "ADDRESS"], [16, 22, "CITY"], [23, 25, "STATE"], [26, 31, "ZIP"]]}
+{"id": 2533, "text": "@ Home for sale9 hours ago,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 6, "PROPERTY TYPE"]]}
+{"id": 2534, "text": "TEx ae a,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2535, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2536, "text": "i Ve,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2537, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2538, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2539, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2540, "text": "ce,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2541, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2542, "text": "+,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2543, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2544, "text": "�� : Pera eluate] 5/2,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2545, "text": "lo.,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2546, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2547, "text": "$59,000 0.25 acres lot,,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 7, "PRICE"], [8, 18, "SQFT"]]}
+{"id": 2548, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2549, "text": "6003 Gleneagles Ct,Redding,CA 96003,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 18, "ADDRESS"], [19, 26, "CITY"], [27, 29, "STATE"], [30, 35, "ZIP"]]}
+{"id": 2550, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2551, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2552, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2553, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2554, "text": "@ Lot / Land for sale1 day on Zillow _ > oy),,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 12, "PROPERTY TYPE"]]}
+{"id": 2555, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2556, "text": "$1 89,900 2bds 1ba 942 saft,,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 9, "PRICE"], [10, 14, "#BEDS"], [15, 18, "#BATHROOMS"], [19, 22, "SQFT"]]}
+{"id": 2557, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2558, "text": "1230 Aloha St,Red Bluff,CA 96080,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 13, "ADDRESS"], [14, 23, "CITY"], [24, 26, "STATE"], [27, 32, "ZIP"]]}
+{"id": 2559, "text": "@ House for sale1 day on Zillow� 4s,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2560, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2561, "text": "$40,000 0.33 acres lot,,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 7, "PRICE"], [8, 18, "SQFT"]]}
+{"id": 2562, "text": "1602 Gate Ln,Paradise,CA 95969,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 12, "ADDRESS"], [13, 21, "CITY"], [22, 24, "STATE"], [25, 30, "ZIP"]]}
+{"id": 2563, "text": "@ Lot / Land for saleOn market Aug 5,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 12, "PROPERTY TYPE"]]}
+{"id": 2564, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2565, "text": "L,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2566, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2567, "text": "$335,000 4bds 3ba 2,018 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [18, 23, "SQFT"]]}
+{"id": 2568, "text": "4341 Laguna Garden Ave,Las Vegas,NV 89115,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 22, "ADDRESS"], [23, 32, "CITY"], [33, 35, "STATE"], [36, 41, "ZIP"]]}
+{"id": 2569, "text": "@ Coming soon= Cri (e)\\\\|3 eran irate :,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 13, "PROPERTY TYPE"]]}
+{"id": 2570, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2571, "text": "$259,000 3bds | 2ba | 1,685 sqft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [16, 19, "#BATHROOMS"], [22, 27, "SQFT"]]}
+{"id": 2572, "text": "3214 La Mancha Way,Henderson,NV 89014,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 18, "ADDRESS"], [19, 28, "CITY"], [29, 31, "STATE"], [32, 37, "ZIP"]]}
+{"id": 2573, "text": "@ Townhouse for sale2 hours ago,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 11, "PROPERTY TYPE"]]}
+{"id": 2574, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2575, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2576, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2577, "text": "et eats Companies:,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2578, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2579, "text": "$299,000 3bds 3ba_ 1,590 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [19, 24, "SQFT"]]}
+{"id": 2580, "text": "6568 Benvolio Ct,Las Vegas,NV 89141,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 16, "ADDRESS"], [17, 26, "CITY"], [27, 29, "STATE"], [30, 35, "ZIP"]]}
+{"id": 2581, "text": "@ House for sale$823,987 5bds 5ba 3,942 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"], [16, 24, "PRICE"], [25, 29, "#BEDS"], [30, 33, "#BATHROOMS"], [34, 39, "SQFT"]]}
+{"id": 2582, "text": "4041 Reyes Ave,Las Vegas,NV,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 14, "ADDRESS"], [15, 24, "CITY"], [25, 27, "STATE"]]}
+{"id": 2583, "text": "@ New construction2 hours ago,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 18, "PROPERTY TYPE"]]}
+{"id": 2584, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2585, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2586, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2587, "text": "$365,000 4bds 3ba 2,664 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [18, 23, "SQFT"]]}
+{"id": 2588, "text": "5876 Cory PI,Las Vegas,NV 89107,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 12, "ADDRESS"], [13, 22, "CITY"], [23, 25, "STATE"], [26, 31, "ZIP"]]}
+{"id": 2589, "text": "@ House for sale$798,500 5bds 4ba_ 4,218 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"], [16, 24, "PRICE"], [25, 29, "#BEDS"], [30, 33, "#BATHROOMS"], [35, 40, "SQFT"]]}
+{"id": 2590, "text": "8084 Mackenzie Ct,Las Vegas,NV 89129,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 17, "ADDRESS"], [18, 27, "CITY"], [28, 30, "STATE"], [31, 36, "ZIP"]]}
+{"id": 2591, "text": "@ House for salese role phe a,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2592, "text": "s,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2593, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2594, "text": "afte Kegel�,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2595, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2596, "text": "$799,900 7bds 6ba 3,449 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [18, 23, "SQFT"]]}
+{"id": 2597, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2598, "text": "2685 El Camino Rd,Las Vegas,NV 89146,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 17, "ADDRESS"], [18, 27, "CITY"], [28, 30, "STATE"], [31, 36, "ZIP"]]}
+{"id": 2599, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2600, "text": "Fy 1,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2601, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2602, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2603, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2604, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2605, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2606, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2607, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2608, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2609, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2610, "text": "@ House for sale$1,500,000 3bds 3ba_ 1,781 sqft,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"], [16, 26, "PRICE"], [27, 31, "#BEDS"], [32, 35, "#BATHROOMS"], [37, 42, "SQFT"]]}
+{"id": 2611, "text": "2700 Las Vegas Blvd S UNIT 2702,Winchester,N...,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 31, "ADDRESS"], [32, 42, "CITY"], [43, 47, "STATE"]]}
+{"id": 2612, "text": "@ Condo for sale1 hour ago =,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2613, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2614, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2615, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2616, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2617, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2618, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2619, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2620, "text": "� =,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2621, "text": "- teed hag ot t,,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2622, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2623, "text": "$340,000 3bds 2ba 1,994 saft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [14, 17, "#BATHROOMS"], [18, 23, "SQFT"]]}
+{"id": 2624, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2625, "text": "1925 Buffalo Dancer Trl NE,Albuquerque,NM 87...,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 26, "ADDRESS"], [27, 38, "CITY"], [39, 41, "STATE"], [42, 47, "ZIP"]]}
+{"id": 2626, "text": "@ House for sale$60,000 2.66 acres lot,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"], [16, 23, "PRICE"], [24, 34, "SQFT"]]}
+{"id": 2627, "text": "14 Camino De Las Brisas,Placitas,NM 87043,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 23, "ADDRESS"], [24, 32, "CITY"], [33, 35, "STATE"], [36, 41, "ZIP"]]}
+{"id": 2628, "text": "@ For sale by owner3 hours ago,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 19, "PROPERTY TYPE"]]}
+{"id": 2629, "text": ",,,,", "meta": {}, "annotation_approver": "admin", "labels": []}
+{"id": 2630, "text": "$188,000 2bds | 3ba | 1,195 sqft,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 8, "PRICE"], [9, 13, "#BEDS"], [16, 19, "#BATHROOMS"], [22, 27, "SQFT"]]}
+{"id": 2631, "text": "13624 Shaffer Ct SE,Albuquerque,NM 87123,,", "meta": {}, "annotation_approver": "admin", "labels": [[0, 19, "ADDRESS"], [20, 31, "CITY"], [32, 34, "STATE"], [35, 40, "PROPERTY TYPE"]]}
+{"id": 2632, "text": "@ Condo for sale4 hours ago ba,,,,", "meta": {}, "annotation_approver": "admin", "labels": [[2, 7, "PROPERTY TYPE"]]}
+{"id": 2633, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2634, "text": "$269,000 � Studio --ba 3,034 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2635, "text": "220 General Stilwell St NE,Albuquerque,NM 871...,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2636, "text": "@ Apartment for sale4 hours ago,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2637, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2638, "text": "$450,000 3bds | 3ba 2,884 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2639, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2640, "text": "2223 Camino De Los Artesanos NW,Albuquerqu...,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2641, "text": "@ House for sale7 hours ago,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2642, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2643, "text": "$1 45,900 2bds 1ba_ 1,231 sqft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2644, "text": "1221 La Vega Dr SW,Albuquerque,NM 87105,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2645, "text": "@ House for sale11 hours ago,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2646, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2647, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2648, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2649, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2650, "text": "CaCl iN AnKe,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2651, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2652, "text": "$85,000 1.25 acres lot,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2653, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2654, "text": "211 La Entrada,Placitas,NM 87043,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2655, "text": "@ Lot / Land for sale10 hours ago,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2656, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2657, "text": "$175,000 10 acres lot,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2658, "text": "20 Via Entrada,Sandia Park,NM 87047,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2659, "text": "@ For sale by owner�� LC,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2660, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2661, "text": "2 days on Zillow � �S iW),,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2662, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2663, "text": ": fall > | mr nn,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2664, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2665, "text": "| | elma po Tf,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2666, "text": "������_�,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2667, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2668, "text": "a ee,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2669, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2670, "text": "es,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2671, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2672, "text": "Realty-One� of New Mexico,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2673, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2674, "text": "$459,000 3bds | 3ba | 2,908 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2675, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2676, "text": "3650 Highway 41,Stanley,NM 87056,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2677, "text": "@ House for sale4 days on Zillow,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2678, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2679, "text": "$550,000 2 bds | 2ba | 7,000 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2680, "text": "2077 Old Us Highway 66,Moriarty,NM 87015,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2681, "text": "@ For sale by owner4 days on Zillow,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2682, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2683, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2684, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2685, "text": "$315,000 3bds | 3ba_ 2,130 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2686, "text": "216 Raven Rd,Tijeras,NM 87059,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2687, "text": "@ House for sale7 days on Zillow,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2688, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2689, "text": "$929,000 3bds 4ba_ 5,800 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2690, "text": "82 Vallecitos Rd,Tijeras,NM 87059,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2691, "text": "@ House for sale$445,00 4bds | 3ba | 4,420 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2692, "text": "18 Mccall Loop,Edgewood,NM 87015,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2693, "text": "@ House for sale9 days on Zillow yw,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2694, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2695, "text": "0 3bds 2ba_ 2,280 saft,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2696, "text": "2 Shire Ct,Edgewood,NM 87015,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2697, "text": "@ Home for sale9 days on Zillow 9,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2698, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2699, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2700, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2701, "text": "$1 72,000 3bds 2ba 1,120 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2702, "text": "9 Monte Verde,Tijeras,NM 87059,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2703, "text": "@ For sale by owner8 days on Zillow yy),,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2704, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2705, "text": "(eeTeie TER eliny,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2706, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2707, "text": "$320,000 3bds | 2ba | 1,551 sqft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2708, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2709, "text": "29 State Highway 217,Tijeras,NM,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2710, "text": "@ New constructionEMO ENKel 74love �,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2711, "text": "a Lk = he atop.,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2712, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2713, "text": "CVn Ae Ke,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2714, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2715, "text": "a M4,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2716, "text": "� ee ae BrokerageLLC,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2717, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2718, "text": "$1 50,000 1.01 acres lot,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2719, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2720, "text": "43 Raindance Rd,Sandia Park,NM 87047,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2721, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2722, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2723, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2724, "text": "@ Lot / Land for sale$445,000 4bds 3ba 4,420 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2725, "text": "18 Mccall Loop,Edgewood,NM 87015,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2726, "text": "@ House for sale2 hours ago,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2727, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2728, "text": "McGraw REALTORS (BO),,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2729, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2730, "text": "$449,500 4bds | 4ba | 3,829 sqft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2731, "text": "15245 Canyon Rd,Piedmont,OK 73078,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2732, "text": "@ House for sale4 hours ago v,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2733, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2734, "text": "��,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2735, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2736, "text": "we,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2737, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2738, "text": "$265,000 3bds | 2ba | 2,358 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2739, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2740, "text": "9713 Lakecrest Dr,Oklahoma City,OK 73159,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2741, "text": "@ For sale by ownerColumbia Real ea,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2742, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2743, "text": "�7 a,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2744, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2745, "text": "$1 75,000 3bds 3ba 2,180 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2746, "text": "115 Hollyridge Ln,Columbia,MO 65203,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2747, "text": "@ Condo for sale2 minutes ago ; J,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2748, "text": "If ee,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2749, "text": "iT,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2750, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2751, "text": "> ait Sno,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2752, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2753, "text": "$1 1 4,900 9.33 acres lot,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2754, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2755, "text": "LOT 1 188th & Cameron Rd,Holt,MO 64048,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2756, "text": "@ Lot / Land for sale1 minute ago,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2757, "text": "aes Vv,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2758, "text": "=,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2759, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2760, "text": "Better Homes and Gardens,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2761, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2762, "text": "Nz,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2763, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2764, "text": "$185,000 3bds | 2ba 2,126 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2765, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2766, "text": "2869 County Road 227,Littlefield,TX 79339,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2767, "text": "@ House for sale12 minutes ago,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2768, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2769, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2770, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2771, "text": "$9,999,000 4bds 5ba 3,910 saft,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2772, "text": "200 E Durant Ave #A,Aspen,CO 81611,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2773, "text": "@ Townhouse for saleramos Nie,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2774, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2775, "text": "$785,000 3bds 2.5ba | 3,042 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2776, "text": "1321 S Little Leaf Ln,Show Low,AZ 85901,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2777, "text": "@ House for sale21 minutes ago ��,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2778, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2779, "text": "Copper View Realty,LLC,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2780, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2781, "text": "$169,900 2bds | 2ba | 1,283 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2782, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2783, "text": "536 W Deerview Ct,Green Valley,AZ 85614,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2784, "text": "@ Foreclosure26 minutes ago,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2785, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2786, "text": "es,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2787, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2788, "text": "� TS SSE delaras,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2789, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2790, "text": "$1 45,000 Studio --ba 1,584 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2791, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2792, "text": "2712 Englewood Ter,Independence,MO 64052,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2793, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2794, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2795, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2796, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2797, "text": "@ Apartment for saleo),,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2798, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2799, "text": "$68,750 3bds 3ba 1,560 sqft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2800, "text": "302 Tallow Ln,Shreveport,LA 71105,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2801, "text": "@ House for sale33 minutes ago,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2802, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2803, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2804, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2805, "text": "S!,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2806, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2807, "text": "$1 8,900 7,492 saft lot,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2808, "text": "413 N Maurice Ave LOT 10,Denison,TX 75020,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2809, "text": "@ Lot / Land for sale��,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2810, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2811, "text": "~ = RE/MAX Premier,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2812, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2813, "text": "$315,000 3bds | 3ba | 1,697 sqft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2814, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2815, "text": "508 S Lois Ln,Richardson,TX 75081,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2816, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2817, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2818, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2819, "text": "@ House for sale1 minute ago,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2820, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2821, "text": "$899,000 5bds 4ba_ 3,178 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2822, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2823, "text": "4810 N Ferdinand St,Tacoma,WA,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2824, "text": "@ New constructionalsa willis,,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2825, "text": ",,,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2826, "text": "$365,000 5bds 2ba_ 1,700 saft,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2827, "text": "6734 N Harlem Ave,Chicago,IL 60631,,", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2828, "text": "@ House for sale,,,,", "meta": {}, "annotation_approver": null, "labels": []}
