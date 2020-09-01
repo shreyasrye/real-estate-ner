@@ -6,8 +6,9 @@ import glob
 import pytesseract
 import json
 import cv2
-import spacy
-from spacy.gold import GoldCorpus, minibatch, biluo_tags_from_offsets, tags_to_entities
+from PIL import Image as IMG
+from doccano_transformer.datasets import NERDataset
+from doccano_transformer.utils import read_jsonl
 
 
 # For Windows only - setting the tesseract path
@@ -29,8 +30,12 @@ class Image:
     def text(self, set_string):
         self._text = set_string
 
+    def set_image_dpi(self, file_name):
+        im = IMG.open(file_name)
+        im.save("test-600.png", dpi=(300, 300))
 
-class DataFormatter:
+
+class WebAnnoFormatter:
     train_data = []
     Sentence = []
     data = {}
@@ -78,7 +83,6 @@ class DataFormatter:
             # Prepare final training data
             self.train_data.append((self.sentences_list[sl], ent_dic))
 
-
     def fill_train_data(self):
 
         # Extract Sentence start/ end positions
@@ -94,11 +98,18 @@ class DataFormatter:
 
 
 def read_text(empty_ls):
-    """ Use opencv and tesseract to extract data from the files"""
-    for file in glob.iglob('training_imgs/*.png'):
-        img = cv2.imread(file)
+    """ Use opencv and tesseract to extract data from the files and preprocesses images for accuracy"""
+    config = '-l eng --oem 1 --psm 3'
+    for file in glob.iglob(r'training_imgs/*.png'):
+        im = cv2.imread(file, cv2.IMREAD_GRAYSCALE)
         img_obj = Image()
-        img_obj.text = pytesseract.image_to_string(img)
+        # Denoising images for better accuracy
+        im = cv2.fastNlMeansDenoising(im, 5, 7, 21)
+        # Binarize image
+        (thresh, im_bw) = cv2.threshold(im, 128, 255, cv2.THRESH_BINARY | cv2.THRESH_OTSU)
+        thresh = 127
+        cv2.imwrite(file, im_bw)
+        img_obj.text = pytesseract.image_to_string(im, config=config)
         empty_ls.append(img_obj)
     return empty_ls
 
@@ -112,12 +123,16 @@ def write_text(text_ls):
 
 
 def main():
-    df = DataFormatter()
-    # read_text(df.train_data)
-    # write_text(df.train_data)
+    # Using WebAnno for annotating
+    df = WebAnnoFormatter()
+    read_text(df.train_data)
+    write_text(df.train_data)
     df.fill_train_data()
-    for i in df.train_data:
-        print(i)
+
+    # Using doccano
+    dataset = read_jsonl(filepath='example.jsonl', dataset=NERDataset, encoding='utf-8')
+    dataset.to_conll2003(tokenizer=str.split)
+    dataset.to_spacy(tokenizer=str.split)
 
 
 if __name__ == '__main__':
